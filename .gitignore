@@ -1,0 +1,6 @@
+#exclure un fichier/dossier du git: il suffit de mettre le nom 
+# utiliser * pour regrouper (*.txt = ignorer tous les fichiers .txt)
+
+
+
+todo.txt
